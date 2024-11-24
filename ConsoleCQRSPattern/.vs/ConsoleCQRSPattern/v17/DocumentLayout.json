@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\consolecqrspattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\consolecqrspattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\repositories\\iemployeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\repositories\\iemployeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\repositories\\employeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\repositories\\employeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\commands\\iemployeecomands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\commands\\iemployeecomands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\commands\\employeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\commands\\employeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\repositories\\iemployeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\repositories\\iemployeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\repositories\\employeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\repositories\\employeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\queries\\employeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\queries\\employeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|c:\\users\\sriha\\source\\repos\\consolecqrspattern\\consolecqrspattern\\queries\\iemployeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4EEF3-5755-4447-9AA3-DA0071B41FF7}|ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj|solutionrelative:consolecqrspattern\\queries\\iemployeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeComands.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Commands\\IEmployeeComands.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Commands\\IEmployeeComands.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Commands\\IEmployeeComands.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Commands\\IEmployeeComands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:51:16.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Program.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:49:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeQueries.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Queries\\EmployeeQueries.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Queries\\EmployeeQueries.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Queries\\EmployeeQueries.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Queries\\EmployeeQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:52:19.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeCommandsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Repositories\\EmployeeCommandsRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Repositories\\EmployeeCommandsRepository.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Repositories\\EmployeeCommandsRepository.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Repositories\\EmployeeCommandsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:53:03.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeQueriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Repositories\\IEmployeeQueriesRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Repositories\\IEmployeeQueriesRepository.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Repositories\\IEmployeeQueriesRepository.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Repositories\\IEmployeeQueriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:54:12.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeCommandsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Repositories\\IEmployeeCommandsRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Repositories\\IEmployeeCommandsRepository.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Repositories\\IEmployeeCommandsRepository.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Repositories\\IEmployeeCommandsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:53:52.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeCommands.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Commands\\EmployeeCommands.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Commands\\EmployeeCommands.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Commands\\EmployeeCommands.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Commands\\EmployeeCommands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:50:52.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleCQRSPattern",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj",
+              "RelativeToolTip": "ConsoleCQRSPattern\\ConsoleCQRSPattern.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T03:49:34.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeQueriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Repositories\\EmployeeQueriesRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Repositories\\EmployeeQueriesRepository.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Repositories\\EmployeeQueriesRepository.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Repositories\\EmployeeQueriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:53:29.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Models\\Employee.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Models\\Employee.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:51:49.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:51:35.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeQueries.cs",
+              "DocumentMoniker": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Queries\\IEmployeeQueries.cs",
+              "RelativeDocumentMoniker": "ConsoleCQRSPattern\\Queries\\IEmployeeQueries.cs",
+              "ToolTip": "C:\\Users\\sriha\\source\\repos\\ConsoleCQRSPattern\\ConsoleCQRSPattern\\Queries\\IEmployeeQueries.cs",
+              "RelativeToolTip": "ConsoleCQRSPattern\\Queries\\IEmployeeQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:52:34.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
